@@ -1,0 +1,6 @@
+{
+  "name": "Be Bodywise Refills & Return Rewards",
+  "description": "Refill-first commerce platform for Be Bodywise essentials with the Bodywise Back empty packaging return rewards programme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

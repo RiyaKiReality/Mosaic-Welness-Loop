@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --color-azure-50: #f0f7ff;
+  --color-azure-100: #e0f0fe;
+  --color-azure-200: #bae3fd;
+  --color-azure-300: #7ccafb;
+  --color-azure-400: #38b0f7;
+  --color-azure-500: #0284c7;
+  --color-azure-600: #0066cc;
+  --color-azure-700: #0052a3;
+  --color-azure-800: #074585;
+  --color-azure-900: #0c3b6d;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #ffffff;
+  color: #0f172a;
+}
